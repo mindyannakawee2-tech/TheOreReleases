@@ -1,24 +1,7 @@
-# TheOreReleases
+# TheOre NEWS
 
-# Manual Installation
+# Current Game State
+This game state is currently in heavy development, taking my free time in the semester break and time to hang out with friends
+But this is FUN!
 
-You need to download the latest JAR release and put it somewhere
-EXAMPLE ```~/Desktop/TheORE```
-
-Run
-```
-java -version
-```
-
-It should be Version 25 ( Any of them )
-
-if not then go download it, https://openjdk.org/
-
-and then
-
-```
-cd ~/Desktop/TheORE
-java -jar TheORE.jar
-```
-
-Then the game should show
+Anyways so hope u won't pirate this game when it came out!
